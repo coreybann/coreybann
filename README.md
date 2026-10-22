@@ -29,6 +29,17 @@ Analyzed 2026 MLB hitters using R and Baseball Savant Statcast data to identify 
 - Hard-hit rate and barrel rate analysis
 - Five-player evaluation dashboard
 - R analysis script and detailed scouting report (PDF)
+- ### [Gerrit Cole 2026 Red Sox Matchup Analysis](https://github.com/coreybann/Gerrit-Cole-2026-Red-Sox-Matchup-Analysis)
+
+Analyzed Gerrit Cole's 2026 pitching performance and potential matchups against Boston Red Sox hitters using R and Baseball Savant Statcast data. The project explores pitch usage, velocity, movement, whiff rates, pitch location, and potential matchup advantages.
+
+**Project includes:**
+- Ten data visualizations
+- Pitch selection and movement analysis
+- Whiff rates by pitch type and batter handedness
+- Boston Red Sox hitter matchup heatmaps
+- Top five potential pitch matchups
+- R analysis script and detailed scouting report (PDF)
 ## Experience
 - Student Football Manager, University of Delaware
 - Field Manager, Perfect Game
